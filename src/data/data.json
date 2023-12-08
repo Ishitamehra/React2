@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "customer": "John Doe",
+    "lastSeen": "2023-12-05",
+    "orders": 5,
+    "totalSpent": 230.5,
+    "latestPurchase": "2023-12-01",
+    "news": true,
+    "segments": ["Premium", "Frequent Buyer"]
+  },
+  {
+    "id": 2,
+    "customer": "Jane Smith",
+    "lastSeen": "2023-12-04",
+    "orders": 8,
+    "totalSpent": 420.75,
+    "latestPurchase": "2023-12-02",
+    "news": false,
+    "segments": ["Regular", "Frequent Buyer"]
+  },
+  {
+    "id": 3,
+    "customer": "Alice Johnson",
+    "lastSeen": "2023-12-03",
+    "orders": 3,
+    "totalSpent": 150.25,
+    "latestPurchase": "2023-12-02",
+    "news": true,
+    "segments": ["Regular"]
+  },
+  {
+    "id": 4,
+    "customer": "Bob Williams",
+    "lastSeen": "2023-12-05",
+    "orders": 12,
+    "totalSpent": 780.2,
+    "latestPurchase": "2023-12-04",
+    "news": true,
+    "segments": ["Premium", "Frequent Buyer"]
+  },
+  {
+    "id": 5,
+    "customer": "Eva Davis",
+    "lastSeen": "2023-12-05",
+    "orders": 6,
+    "totalSpent": 320.9,
+    "latestPurchase": "2023-12-03",
+    "news": false,
+    "segments": ["Regular"]
+  },
+  {
+    "id": 6,
+    "customer": "Michael Brown",
+    "lastSeen": "2023-12-04",
+    "orders": 9,
+    "totalSpent": 490.6,
+    "latestPurchase": "2023-12-03",
+    "news": true,
+    "segments": ["Frequent Buyer"]
+  },
+  {
+    "id": 7,
+    "customer": "Sophia Miller",
+    "lastSeen": "2023-12-05",
+    "orders": 4,
+    "totalSpent": 210.3,
+    "latestPurchase": "2023-12-01",
+    "news": true,
+    "segments": ["Regular"]
+  },
+  {
+    "id": 8,
+    "customer": "William Wilson",
+    "lastSeen": "2023-12-04",
+    "orders": 7,
+    "totalSpent": 360.8,
+    "latestPurchase": "2023-12-03",
+    "news": false,
+    "segments": ["Regular"]
+  },
+  {
+    "id": 9,
+    "customer": "Olivia Garcia",
+    "lastSeen": "2023-12-05",
+    "orders": 11,
+    "totalSpent": 650.4,
+    "latestPurchase": "2023-12-04",
+    "news": true,
+    "segments": ["Premium"]
+  },
+  {
+    "id": 10,
+    "customer": "David Martinez",
+    "lastSeen": "2023-12-04",
+    "orders": 5,
+    "totalSpent": 260.0,
+    "latestPurchase": "2023-12-02",
+    "news": false,
+    "segments": ["Regular"]
+  },
+  {
+    "id": 11,
+    "customer": "Ava Anderson",
+    "lastSeen": "2023-12-05",
+    "orders": 9,
+    "totalSpent": 500.75,
+    "latestPurchase": "2023-12-04",
+    "news": true,
+    "segments": ["Frequent Buyer"]
+  },
+  {
+    "id": 12,
+    "customer": "James Lopez",
+    "lastSeen": "2023-12-03",
+    "orders": 6,
+    "totalSpent": 320.4,
+    "latestPurchase": "2023-12-02",
+    "news": false,
+    "segments": ["Regular"]
+  }
+]
